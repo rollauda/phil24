@@ -21,6 +21,7 @@ nav_order: 1
 {: .note-title }
 > SOMMAIRE
 >
+>  **CHAPITRE 1 : LA MORALE**
 > - [Leçon 1 : Comment être heureux ?](/phil24/docs/L1/L1-0.html)
 > - [Leçon 2 : Qui suis-je ? ](/phil24/docs/L2/L2-0-0.html)
 > - [Leçon 3 : Sommes-nous libres ?](/phil24/docs/L3/L3-0-0.html)
