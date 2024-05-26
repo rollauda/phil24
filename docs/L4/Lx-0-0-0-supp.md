@@ -20,7 +20,7 @@ Image avec %
 
 Image avec clic
 
-<a href="../../assets/img/nom.png" target="_blank"><img src="../../assets/img/art/vinci-anne.jpeg" style="zoom:26%;" /></a>
+<a href="../../assets/img/nom.png" target="_blank"><img src="../../assets/img/nom.png" style="zoom:26%;" /></a>
 
 ---
 

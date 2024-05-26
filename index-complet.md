@@ -27,7 +27,7 @@ published: false
 > - [Leçon 2 : Qui suis-je ? ](/phil24/docs/L2/L2-0-0.html)
 > - [Leçon 3 : Sommes-nous libres ?](/phil24/docs/L3/L3-0-0.html)
 > - [Œuvre suivie, première partie : David Hume, _Enquête sur les principes de la morale_, Section I]() 
-> - [Leçon 4 : Qu’est-ce qu’une bonne action ?]()  
+> - [Leçon 4 : Qu’est-ce qu’une bonne action ?](/phil24/docs/L4/L4-0-0.html)  
 >
 > **CHAPITRE 2 : SCIENCE ET MÉTAPHYSIQUE**
 > - [Leçon 5 : Le temps est-il une illusion ?]()
