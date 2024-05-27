@@ -27,21 +27,21 @@ published: true
 > - [Leçon 2 : Qui suis-je ? ](/phil24/docs/L2/L2-0-0.html)
 > - [Leçon 3 : Sommes-nous libres ?](/phil24/docs/L3/L3-0-0.html)
 > - [Leçon 4 : Qu’est-ce qu’une bonne action ?](/phil24/docs/L4/L4-0-0.html)
-> - [Œuvre suivie, première partie : David Hume, _Enquête sur les principes de la morale_, Section I](/phil24/docs/Œuvre Suivie/LOE1-0-0.html)  
+> - [Œuvre suivie : David Hume, _Enquête sur les principes de la morale_, Section I](/phil24/docs/Œuvre Suivie/LOE1-0-0.html)  
 >
-> **CHAPITRE 2 : SCIENCE ET MÉTAPHYSIQUE**
-> - [Leçon 5 : Le temps est-il une illusion ?]()
-> - [Leçon 6 : Y a-t-il une vérité ?]()
-> - [Leçon 7 : Pourquoi y a-t-il des religions ?]()
-> - [Leçon 8 : Comment les sciences pensent-elles ?]()  
+> **CHAPITRE 2 : LA POLITIQUE**
+> - [Œuvre suivie, seconde partie : David Hume, _Enquête sur les principes de la morale_, Section I]()
+> - [Leçon 5 : Peut-il être juste de désobéir aux lois ?**]()
+> - [Leçon 6 : A-t-on besoin d’État pour organiser les relations sociales ?**]()  
 >
 > **CHAPITRE 3 : NATURE ET CULTURE**
-> - [Leçon 9 : Qu’est-ce que la nature ?]()
-> - [Leçon 10 : Sommes-nous condamnés au travail ?]()
-> - [Leçon 11 : Que font les artistes ?]()
-> - [Leçon 12 : La parole est-elle le propre de l'homme ?]()  
+> - [Leçon 7 : Qu’est-ce que la nature ?]()
+> - [Leçon 8 : Sommes-nous condamnés au travail ?]()
+> - [Leçon 9 : Que font les artistes ?]()
+> - [Leçon 10 : La parole est-elle le propre de l'homme ?]()  
 >
-> **CHAPITRE 4 : LA POLITIQUE**
-> - [Œuvre suivie, seconde partie : David Hume, _Enquête sur les principes de la morale_, Section I]()
-> - [Leçon 13 : Peut-il être juste de désobéir aux lois ?**]()
-> - [Leçon 14 : A-t-on besoin d’État pour organiser les relations sociales ?**]()
+> **CHAPITRE 4 : SCIENCE ET MÉTAPHYSIQUE**
+> - [Leçon 11 : Le temps est-il une illusion ?]()
+> - [Leçon 12 : Y a-t-il une vérité ?]()
+> - [Leçon 13 : Pourquoi y a-t-il des religions ?]()
+> - [Leçon 14 : Comment les sciences pensent-elles ?]()
