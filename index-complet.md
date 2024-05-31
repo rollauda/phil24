@@ -31,8 +31,8 @@ published: true
 >
 > **CHAPITRE 2 : LA POLITIQUE**
 > - [Œuvre suivie, seconde partie : David Hume, _Enquête sur les principes de la morale_, Section I]()
-> - [Leçon 5 : Peut-il être juste de désobéir aux lois ?**]()
-> - [Leçon 6 : A-t-on besoin d’État pour organiser les relations sociales ?**]()  
+> - [Leçon 5 : Peut-il être juste de désobéir aux lois ?]()
+> - [Leçon 6 : A-t-on besoin d’État pour organiser les relations sociales ?]()  
 >
 > **CHAPITRE 3 : NATURE ET CULTURE**
 > - [Leçon 7 : Qu’est-ce que la nature ?]()
