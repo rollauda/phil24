@@ -30,7 +30,7 @@ published: true
 > - [Œuvre suivie : David Hume, _Enquête sur les principes de la morale_, Section I](/phil24/docs/Œuvre Suivie/LOE1-0-0.html)  
 >
 > **CHAPITRE 2 : LA POLITIQUE**
-> - [Œuvre suivie, seconde partie : David Hume, _Enquête sur les principes de la morale_, Section I]()
+> - [Œuvre suivie, seconde partie : David Hume, _Enquête sur les principes de la morale_, Section III et IV]()
 > - [Leçon 5 : Peut-il être juste de désobéir aux lois ?]()
 > - [Leçon 6 : A-t-on besoin d’État pour organiser les relations sociales ?]()  
 >
