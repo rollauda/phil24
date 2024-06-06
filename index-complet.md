@@ -23,8 +23,8 @@ published: true
 > SOMMAIRE
 >
 >  **CHAPITRE 1 : LA MORALE**
-> - [Leçon 1 : Comment être heureux ?](/phil24/docs/L1/L1-0.html)
-> - [Leçon 2 : Qui suis-je ? ](/phil24/docs/L2/L2-0-0.html)
+> - [Leçon 1 : Faut-il être raisonnable pour être heureux ? ](/phil24/docs/L1/L1-0.html)
+> - [Leçon 2 : Puis-je savoir qui je suis ?](/phil24/docs/L2/L2-0-0.html)
 > - [Leçon 3 : Sommes-nous libres ?](/phil24/docs/L3/L3-0-0.html)
 > - [Leçon 4 : Qu’est-ce qu’une bonne action ?](/phil24/docs/L4/L4-0-0.html)
 > - [Œuvre suivie : David Hume, _Enquête sur les principes de la morale_, Section I](/phil24/docs/Œuvre Suivie/LOE1-0-0.html)  

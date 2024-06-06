@@ -21,9 +21,9 @@ published: true
 | Justice   | ... | ...  |
 | Langage | ...  | ...  |
 | Liberté  | ... | L1  |
-| Nature | ...   | L1  |
-| Raison  | ... | L1  |
-| Religion | ...   | L1  |
+| Nature | ...   | L1 |
+| Raison  | L1 | ...  |
+| Religion | ...   | ...  |
 | Science | ... |  ... |
 | Technique | ...  | ...  |
 | Temps | ... | ...  |
