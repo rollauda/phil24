@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Brouillon
-parent: Méthode 2
+parent: M2 - Explication
 grand_parent: Méthode
 nav_order: 3
-published: false
+published: true
 ---
 ##  Modèle de brouillon : analyse et plan détaillé
 

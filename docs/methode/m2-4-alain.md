@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Alain
-parent: Méthode 2
+parent: M2 - Explication
 grand_parent: Méthode
 nav_order: 4
-published: false
+published: true
 ---
 ##  Exemple d'analyse et plan détaillé : Alain, "Penser, c'est dire non"
 
