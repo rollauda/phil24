@@ -25,16 +25,16 @@ published: true
 | Notions           | Leçons | Définitions, problèmes, thèses, arguments, doctrines, etc. |
 | ----------------- | ------ | ------------------------------------------------------------ |
 | <span id="Art">Art</span>  <br> <a href="#index">⭢ Index</a>   |     |  |
-| <span id="Bonheur">**Bonheur**</span>  <br><a href="#index">⭢ Index</a>   | **L1**     | **En quoi consiste le bonheur ?** <br> - [Définition du bonheur](https://rollauda.github.io/phil24/docs/L1/L1-2-0.html) : sort favorable, quête universelle<br />- [Aristote](https://rollauda.github.io/phil24/docs/L1/L1-2-0.html#existe-t-il-une-seule-manière-datteindre-le-bonheur-) : le bonheur est le souverain bien (Eudémonsime), qui s'obtient par le genre de vie contemplatif ou par l'action politique (voir la [fiche détaillée](https://drive.google.com/file/d/1xL8A1yZ1ZbJrEbMplrWbrHwT-Ob_Z-Sh/view))<br />- [Calliclès](https://rollauda.github.io/phil24/docs/L1/L1-3-0.html) (hédonisme radical) : le bonheur consiste dans l'excès, la satisfaction de tous les désirs. <br />- [Socrate](https://rollauda.github.io/phil24/docs/L1/L1-3-0.html) : le bonheur consiste dans la tempérance, une vie dans laquelle on se contente de peu (Argument : [l'image des tonneaux percés](phil24/docs/L1/L1-3-0.html#aide--limage-des-tonneaux-percés))<br />- [Schopenhauer](https://rollauda.github.io/philotg/docs/L1/L1-5.html#le-cercle-vicieux-du-d%C3%A9sir) (ascétisme) : la satisfaction des désirs (= le plaisir) ne peut pas rendre heureux, car le désir est un cercle vicieux, un pendule qui oscille entre souffrance et ennui (voir la [carte mentale de l'image du pendule](https://rollauda.github.io/schemas/cartes/pendule.png))<br>- [Épicure](phil24/docs/L1/L1-4-0.html#32-la-sagesse-voie-vers-le-bonheur-) (Hédonisme) : le bonheur consiste dans l'ataraxie (absence de trouble de l'âme). Il réside dans l'autosuffisance, l'autarcie, la capacité à se limiter aux désirs naturels et nécessaires (voir la carte mentale sur [les désirs chez Épicure](https://rollauda.github.io/schemas/cartes/desirs-epicure.html) ainsi que le [Tetrapharmakos](https://rollauda.github.io/phil24/docs/L1/L1-4-0.html#le-tetrapharmakos)) |
+| <span id="Bonheur">**Bonheur**</span>  <br><a href="#index">⭢ Index</a>   | **L1**     |       |
 |<span id="Conscience">Conscience</span>  <br> <a href="#index">⭢ Index</a>  |  |   |
 | <span id="Devoir">Devoir</span>  <br> <a href="#index">⭢ Index</a>  |       |    |
 | <span id="État">État</span>  <br> <a href="#index">⭢ Index</a>  |      |   |
 |  <span id="Inconscient">**Inconscient**</span>  <br> <a href="#index">⭢ Index</a>  |      |    |
 | <span id="Justice">Justice</span>  <br> <a href="#index">⭢ Index</a>   |   |  |
 | <span id="Langage">Langage</span>  <br> <a href="#index">⭢ Index</a>  |       |      |
-| <span id="Liberté">Liberté</span>  <br> <a href="#index">⭢ Index</a>  |    |  |
-|<span id="Nature">Nature</span>  <br> <a href="#index">⭢ Index</a> |     |  | 
-|<span id="Raison">**Raison**</span>  <br> <a href="#index">⭢ Index</a>  |  **L1**   | -  [Carte mentale sur la Raison](https://rollauda.github.io/schemas/cartes/raison.html)<br> - [Descartes](https://rollauda.github.io/phil24/docs/L1/L1-2-0.html#quest-ce-que-la-raison-) : Le bon sens est la chose du monde la mieux partagée <br>- [Aristote](https://rollauda.github.io/phil24/docs/L1/L1-2-0.html#existe-t-il-une-seule-manière-datteindre-le-bonheur-) : la raison, genre de vie qui mène au bonheur <br>- [Epicure](phil24/docs/L1/L1-4-0.html#32-la-sagesse-voie-vers-le-bonheur-) : la raison permet d'être heureux en vivant comme un Dieu parmi les hommes |
+| <span id="Liberté">Liberté</span>  <br> <a href="#index">⭢ Index</a>  | *L1*   |  |
+|<span id="Nature">Nature</span>  <br> <a href="#index">⭢ Index</a> |  *L1*   |  | 
+|<span id="Raison">**Raison**</span>  <br> <a href="#index">⭢ Index</a>  |  **L1**   |      |
 |<span id="Religion">Religion</span>  <br> <a href="#index">⭢ Index</a> |   |  |
 | <span id="Science">Science</span>  <br> <a href="#index">⭢ Index</a>  |     |  |
 | <span id="Technique">Technique</span>  <br> <a href="#index">⭢ Index</a> |       |   |  
