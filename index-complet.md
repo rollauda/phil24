@@ -26,22 +26,22 @@ published: true
 > - [Leçon 1 : Faut-il être raisonnable pour être heureux ? ](/phil24/docs/L1/L1-0.html)
 > - [Leçon 2 : Puis-je savoir qui je suis ?](/phil24/docs/L2/L2-0-0.html)
 > - [Leçon 3 : Sommes-nous libres ?](/phil24/docs/L3/L3-0-0.html)
-> - [Leçon 4 : Qu’est-ce qu’une bonne action ?](/phil24/docs/L4/L4-0-0.html)
-> - [Œuvre suivie : David Hume, _Enquête sur les principes de la morale_, Section I](/phil24/docs/Œuvre Suivie/LOE1-0-0.html)  
+> - [Leçon 4 : La morale est-elle affaire de raison ou de sentiment ? (Œuvre suivie)](/phil24/docs/L4-OES1/L4OE1-0-0.html)  
+> - [Leçon 5 : Qu’est-ce qu’une bonne action ?](/phil24/docs/L5/L5-0-0.html)
 >
 > **CHAPITRE 2 : LA POLITIQUE**
-> - [Œuvre suivie, seconde partie : David Hume, _Enquête sur les principes de la morale_, Section III et IV]()
-> - [Leçon 5 : Peut-il être juste de désobéir aux lois ?](/phil24/docs/L5/L5-0-0.html)
-> - [Leçon 6 : A-t-on besoin d’État pour organiser les relations sociales ?]()  
+> - [Leçon 6 : Peut-il être juste de désobéir aux lois ?](/phil24/docs/L6/L6-0-0.html)
+> - [Leçon 7 : Qu'est-ce qu'une société juste ? (Œuvre suivie)]()
+> - [Leçon 8 : A-t-on besoin d’être gouvernés ? (Œuvre suivie)]()  
 >
 > **CHAPITRE 3 : NATURE ET CULTURE**
-> - [Leçon 7 : Qu’est-ce que la nature ?]()
-> - [Leçon 8 : Sommes-nous condamnés au travail ?]()
-> - [Leçon 9 : Que font les artistes ?]()
-> - [Leçon 10 : La parole est-elle le propre de l'homme ?]()  
+> - [Leçon 9 : Qu’est-ce que la nature ?]()
+> - [Leçon 10 : Sommes-nous condamnés au travail ?]()
+> - [Leçon 11 : Que font les artistes ?]()
+> - [Leçon 12 : La parole est-elle le propre de l'homme ?]()  
 >
 > **CHAPITRE 4 : SCIENCE ET MÉTAPHYSIQUE**
-> - [Leçon 11 : Le temps est-il une illusion ?]()
-> - [Leçon 12 : Y a-t-il une vérité ?]()
-> - [Leçon 13 : Pourquoi y a-t-il des religions ?]()
-> - [Leçon 14 : Comment les sciences pensent-elles ?]()
+> - [Leçon 13 : Le temps est-il une illusion ?]()
+> - [Leçon 14 : Y a-t-il une vérité ?]()
+> - [Leçon 15 : Pourquoi y a-t-il des religions ?]()
+> - [Leçon 16 : Comment les sciences pensent-elles ?]()
