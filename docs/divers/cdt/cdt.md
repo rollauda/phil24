@@ -4,7 +4,7 @@ layout: default
 nav_order: 3
 has_children: true
 parent: Divers
-published: true
+published: false
 ---
 # Cahiers de texte 2023-2024
 
