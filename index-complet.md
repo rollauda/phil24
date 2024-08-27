@@ -14,7 +14,7 @@ published: false
 > - *Vous trouverez sur ce site les documents des cours de Philosophie de Terminale Tronc Commun*
 > - Accès aux leçons : menu à gauche et sommaire plus bas dans cette page
 > - Le [**→ tableau des notions**](/phil24/docs/Présentation/L0-2-tableau.html) vous informe des notions abordées
-> - [**→ L'Index**](/phil24/docs/Présentation/L0-3-notions.html) résume les thèses vues en cours
+> - [**→ L'Index**](/phil24/docs/Présentation/L0-3-notions.html) résume les thèses et problèmes vus en cours
 > - Accès à la [**→ méthode**](/phil24/docs/methode/methode.html)
 > - Vous pouvez faire une recherche par mots clés en haut du site en cliquant sur l'icône 🔍
 
