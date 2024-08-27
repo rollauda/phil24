@@ -20,12 +20,5 @@ nav_order: 1
 {: .note-title }
 > SOMMAIRE
 >
->  **CHAPITRE 1 : LA MORALE**
+>  **CHAPITRE 1 : [LE SUJET ET LA MORALE](/phil24/docs/C1/C1-0.html)**
 > - [Leçon 1 : Faut-il être raisonnable pour être heureux ? ](/phil24/docs/L1/L1-0.html)
-> - [Leçon 2 : Puis-je savoir qui je suis ?](/phil24/docs/L2/L2-0-0.html)
-> - [Leçon 3 : Sommes-nous libres ?](/phil24/docs/L3/L3-0-0.html)
-> - [Leçon 4 : La morale est-elle affaire de raison ou de sentiment ? (Œuvre suivie)](/phil24/docs/L4-OES1/L4OE1-0-0.html)  
-> - [Leçon 5 : Qu’est-ce qu’une bonne action ?](/phil24/docs/L5/L5-0-0.html)
->
-> **CHAPITRE 2 : LA POLITIQUE**
-> - [Leçon 6 : Peut-il être juste de désobéir aux lois ?](/phil24/docs/L6/L6-0-0.html)

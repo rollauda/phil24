@@ -3,9 +3,12 @@ layout: default
 title: Index préparation
 parent: Présentation de l'année
 nav_order: 5
-published: true
+published: false
 ---
 ## Index détaillé des notions par leçon 
+
+**Résumé des thèses et problèmes vus en cours.**   
+Mise à jour régulière.  
 
 → [Ouvrir l'index au format pdf pour téléchargement](https://drive.google.com/file/d/1woeIWrE6gv2uPF85OumUVOHh9Xsddzmh/view?usp=sharing){:target="_blank" }  
 
