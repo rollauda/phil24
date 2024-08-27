@@ -33,13 +33,14 @@ published: false
 > - [Leçon 7 : A-t-on besoin d’être gouvernés ?)]()  
 >
 > **CHAPITRE 3 : [NATURE ET CULTURE](/phil24/docs/C3/C3-0.html)**
-> - [Leçon 9 : Qu’est-ce que la nature ?]()
-> - [Leçon 10 : Sommes-nous condamnés au travail ?]()
-> - [Leçon 11 : Que font les artistes ?]()
-> - [Leçon 12 : La parole est-elle le propre de l'homme ?]()  
+> - [Leçon 8 : Qu’est-ce que la nature ?]()
+> - [Leçon 9 : Sommes-nous condamnés au travail ?]()
+> - [Œuvre suivie]
+> - [Leçon 10 : Que font les artistes ?]()
+> - [Leçon 11 : La parole est-elle le propre de l'homme ?]()  
 >
 > **CHAPITRE 4 : [SCIENCE ET MÉTAPHYSIQUE](/phil24/docs/C4/C4-0.html)**
-> - [Leçon 13 : Le temps est-il une illusion ?]()
-> - [Leçon 14 : Y a-t-il une vérité ?]()
-> - [Leçon 15 : Pourquoi y a-t-il des religions ?]()
-> - [Leçon 16 : Comment les sciences pensent-elles ?]()
+> - [Leçon 12 : Le temps est-il une illusion ?]()
+> - [Leçon 13 : Y a-t-il une vérité ?]()
+> - [Leçon 14 : Pourquoi y a-t-il des religions ?]()
+> - [Leçon 15 : Comment les sciences pensent-elles ?]()
