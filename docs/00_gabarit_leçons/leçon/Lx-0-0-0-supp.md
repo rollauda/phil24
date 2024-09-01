@@ -11,7 +11,7 @@ published: false
 ---
 
 {: .highlight }
-→ Ouvrir la [carte mentale](https://rollauda.github.io/schemas/cartes/XXX.html){:target="_blank" } 
+→ Ouvrir la [carte mentale](https://profauda.fr/schemas/cartes/XXX.html){:target="_blank" } 
 
 ---
 Image avec %
