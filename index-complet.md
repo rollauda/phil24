@@ -1,8 +1,8 @@
 ---
-title: Accueil-complet
+title: Sommaire-complet
 layout: home
 nav_order: 1
-published: false
+published: true
 ---
 
 **Leçons de philosophie des classes de Terminale Tronc Commun**   
