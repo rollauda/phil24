@@ -2,7 +2,7 @@
 title: Sommaire-complet
 layout: home
 nav_order: 1
-published: true
+published: false
 ---
 
 **Leçons de philosophie des classes de Terminale Tronc Commun**   
