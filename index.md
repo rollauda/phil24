@@ -22,3 +22,4 @@ nav_order: 1
 >
 >  **CHAPITRE 1 : [LE SUJET ET LA MORALE](/phil24/docs/C1/C1-0.html)**
 > - [Leçon 1 : Faut-il être raisonnable pour être heureux ? ](/phil24/docs/L1/L1-0.html)
+> - [Leçon 2 : Puis-je savoir qui je suis ?](/phil24/docs/L2/L2-0-0.html)
