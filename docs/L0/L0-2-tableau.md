@@ -14,19 +14,19 @@ published: true
 |:-------------|:------------------|:------|
 | Art | ... | ...  |
 | Bonheur | L1   | ...  |
-| Conscience  | ... | ...  |
+| Conscience  | L2 | ...  |
 | Devoir | ...   | ...  |
 | État  | ... | ...  |
-| Inconscient | ...   | ...  |
+| Inconscient | L2   | ...  |
 | Justice   | ... | ...  |
 | Langage | ...  | ...  |
 | Liberté  | ... | L1  |
-| Nature | ...   | L1 |
-| Raison  | L1 | ...  |
+| Nature | ...   | L1, L2 |
+| Raison  | L1 | L2  |
 | Religion | ...   | ...  |
 | Science | ... |  ... |
 | Technique | ...  | ...  |
 | Temps | ... | ...  |
 | Travail | ... | ...  |
-| Vérité  | ... | ...  |
+| Vérité  | ... | L2  |
 

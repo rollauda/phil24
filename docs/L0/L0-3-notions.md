@@ -25,7 +25,7 @@ Mise à jour régulière.
 | ----------------- | ------ | ------------------------------------------------------------ |
 | <span id="Art">Art</span>  <br> <a href="#index">⭢ Index</a>   |     |  |
 | <span id="Bonheur">**Bonheur**</span>  <br><a href="#index">⭢ Index</a>   | **L1**     |       |
-|<span id="Conscience">Conscience</span>  <br> <a href="#index">⭢ Index</a>  |  |   |
+|<span id="Conscience">Conscience</span>  <br> <a href="#index">⭢ Index</a>  | **L12* |   |
 | <span id="Devoir">Devoir</span>  <br> <a href="#index">⭢ Index</a>  |       |    |
 | <span id="État">État</span>  <br> <a href="#index">⭢ Index</a>  |      |   |
 |  <span id="Inconscient">**Inconscient**</span>  <br> <a href="#index">⭢ Index</a>  |      |    |
