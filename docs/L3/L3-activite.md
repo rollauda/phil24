@@ -34,4 +34,5 @@ Elle commencera par introduire le problème de la liberté et du déterminisme ,
 **Important** : 
 - Suivez un plan précis
 - Soyez pédagogues, car vos camarades des autres groupes n'auront pas étudié votre sous-partie. 
-- Choisissez des supports à projeter (diaporama, extraits vidéo, etc.)
+- Choisissez des supports à projeter (diaporama, extraits vidéo, cartes mentales, etc.)
+- Partagez-vous bien les rôles dans le groupe
