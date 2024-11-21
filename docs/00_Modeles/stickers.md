@@ -22,7 +22,7 @@ texte fond jaune
 A paragraph
 
 {: .note-title }
-> **VIOLET****
+> **VIOLET**
 >
 > Note violette avec titre perso
 >
