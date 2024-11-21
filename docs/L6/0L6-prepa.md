@@ -1,0 +1,1 @@
+leçon trop longue : aller plus vite sur rousseau hobbes, n'en faire que la fin du 1. ? (montrer que si l'Etat n'est pas naturel, il est en revanche )
