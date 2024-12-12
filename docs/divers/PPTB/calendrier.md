@@ -14,6 +14,7 @@ published: true
 | 05/09 | Vérifications : Spécialités, Options, Règlements intérieurs signés, Cartes étudiants, Codes informatique | ... |
 | 23/09 | Élection des délégués et éco-délégués | ... |
 | 07/10 | Enquête socio-émotionnelle en ligne | ... |
-| 18/11 | Parcoursup | ... |
+| 18/11 | Parcoursup : recherche de formations | ... |
+| 02/12 | Comptes-rendus des délégués et éco-délégués | ... |
 | à venir | à venir | ... |
 
