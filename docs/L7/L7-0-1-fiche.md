@@ -8,6 +8,3 @@ published: true
 
 {% pdf "../../assets/pdf/L7/L7.pdf" width=100% height=700px no_link %}
 
-<br>
-
-{% pdf "../../assets/pdf/L7/L7-complement.pdf" width=100% height=700px no_link %}
