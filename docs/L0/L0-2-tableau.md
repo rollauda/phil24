@@ -16,11 +16,11 @@ published: true
 | Bonheur | L1   | L4  |
 | Conscience  | L2 | ...  |
 | Devoir | L4   | L3, L5  |
-| État  | ... | L5  |
+| État  | ... | L5, L6  |
 | Inconscient | L2   | L3  |
-| Justice   | L5 | L4  |
+| Justice   | L5, L6 | L4  |
 | Langage | ...  | ...  |
-| Liberté  | L3 | L1, L4, L5  |
+| Liberté  | L3 | L1, L4, L5, L6  |
 | Nature | ...   | L1, L2, L3, L5 |
 | Raison  | L1 | L2, L3, L4  |
 | Religion | ...   | L3  |
