@@ -29,12 +29,12 @@ published: false
 >
 > **CHAPITRE 2 : [LA POLITIQUE](/docs/C2/C2-0.html)**
 > - [Leçon 5 : Peut-il être juste de désobéir aux lois ?](/docs/L5/L5-0-0.html)
-> - [Leçon 6 : A-t-on besoin d’État ?](/docs/L6/L6-0-0.html)
-> - [Leçon 7 : Qu'est-ce qu'une société juste ?)](/docs/L7/L7-0-0.html)  
+> - [Leçon 6 : Qu'est-ce qu'une société juste ?](/docs/L6/L6-0-0.html)
+> - [Leçon 7 : A-t-on besoin d’État ?](/docs/L7/L7-0-0.html)  
 >
 > **CHAPITRE 3 : [L'HUMAIN ET LA NATURE](/docs/C3/C3-0.html)**
 > - [Leçon 8 : Nature et culture](/docs/L8/L8-0-0.html)
-> - [Leçon 9 : La parole est-elle le propre de l'homme ?](/docs/L9/L9-0-0.html)
+> - [Leçon 9 : Faut-il travailler? (OEuvre suivie : *Eloge de l'oisiveté*, B. Russell)](/docs/L9/L9-0-0.html)
 > - [Leçon 10 : Faut-il travailler ? (Œuvre suivie, *Eloge de l'oisiveté*, B. Russell)]()
 > - [Leçon 11 : Que font les artistes ?]() 
 >
