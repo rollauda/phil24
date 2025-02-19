@@ -6,4 +6,4 @@ nav_order: 1
 published: true
 ---
 
-{% pdf "../../assets/pdf/L9/L9.pdf" width=100% height=700px no_link %}
+{% pdf "../../assets/pdf/L10/L10.pdf" width=100% height=700px no_link %}
