@@ -34,3 +34,11 @@ nav_order: 1
 > **CHAPITRE 3 : [L'HUMAIN ET LA NATURE](/docs/C3/C3-0.html)**
 > - [Leçon 8 : Nature et culture](/docs/L8/L8-0-0.html)
 > - [Leçon 9 : Faut-il travailler? (OEuvre suivie : *Eloge de l'oisiveté*, B. Russell)](/docs/L9/L9-0-0.html)
+> - [Leçon 10 : La parole est-elle le propre de l'homme ?)](/docs/L10/L10-0-0.html)
+> - [Leçon 11 : Que font les artistes ?](/docs/L11/L11-0-0.html) 
+> - [Leçon 12 : Quelles sont les fonctions de l'art ?](/docs/L12/L12-0-0.html) 
+>
+> **CHAPITRE 4 : [SCIENCE ET MÉTAPHYSIQUE](/phil24/docs/C4/C4-0.html)**
+> - [Leçon 13 : Y a-t-il une vérité ?](/docs/L13/L13-0-0.html)
+> - [Leçon 14 : En quoi science et religion s’opposent-elles ?](/docs/L14/L14-0-0.html)
+> - Leçon 15 : Le temps est-il une illusion ?
