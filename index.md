@@ -38,7 +38,7 @@ nav_order: 1
 > - [Leçon 11 : Que font les artistes ?](/docs/L11/L11-0-0.html) 
 > - [Leçon 11b : Quelles sont les fonctions de l'art ?](/docs/L11b/L11b-0-0.html) 
 >
-> **CHAPITRE 4 : [SCIENCE ET MÉTAPHYSIQUE](/docs/C4/C4-0.html)**
+> **CHAPITRE 4 : [LA CONNAISSANCE](/docs/C4/C4-0.html)**
 > - [Leçon 12 : Y a-t-il une vérité ?](/docs/L12/L12-0-0.html)
 > - [Leçon 13 : En quoi science et religion s’opposent-elles ?](/docs/L13/L13-0-0.html)
 > - [Leçon 14 : Qu'est-ce que le temps ?](/docs/L14/L14-0-0.html)
