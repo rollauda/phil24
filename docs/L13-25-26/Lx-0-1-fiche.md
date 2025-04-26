@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fiche
-parent: Leçon 14
+parent: Leçon 1x
 nav_order: 1
 published: true
 ---
